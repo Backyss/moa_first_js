@@ -17,7 +17,7 @@ function calculate() {
     let result;
 
     if (isNaN(num1) || isNaN(num2)) {
-        result = 'Neplatný vstup';
+        result = 'Niggers';
     } else {
         switch(operator) {
             case '+':
