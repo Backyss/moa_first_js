@@ -6,12 +6,12 @@
     "_comment2": "Ikony aplikace v různých velikostech",
     "icons": [
       {
-        "src": "H:/moa_first_js/icons/cotoje1.png",
+        "src": "/icons/cotoje1.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "H:/moa_first_js/icons/cotoje2.png",
+        "src": "/icons/cotoje2.png",
         "sizes": "512x512",
         "type": "image/png"
       }
